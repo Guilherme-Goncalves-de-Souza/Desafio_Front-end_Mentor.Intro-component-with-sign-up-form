@@ -2,7 +2,7 @@
 
 <br />
 
-<h3 align='center'> Projeto realizado para praticar meus conhecimentos em <strong>React (Vite), Styled-component, Material UI e Git</strong>. </h3>
+<h3 align='center'> Projeto realizado para praticar meus conhecimentos em <strong>React (Vite), Styled-Components, Material UI e Git</strong>. </h3>
 
 <br />
 
@@ -29,5 +29,5 @@ Desktop design:            | Mobile design:           |
   
   <br><br>
 
-  ## <a href = ""> Veja o projeto aqui. </a>
+  ## <a href = "https://desafio-component-sign-up-form.vercel.app/"> Veja o projeto aqui. </a>
 </div>
